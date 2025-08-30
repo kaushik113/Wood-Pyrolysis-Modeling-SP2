@@ -1,6 +1,5 @@
 # Wood-Pyrolysis-Modeling-SP2
 
-# Wood Pyrolysis Modeling (SP-II Project)
 
 This repository contains the modeling and optimization work on **Pyrolysis of Wood** carried out as part of the *Separation Processes-II (CL316)* course under the guidance of **Prof. Karthik Subramaniam Pushpavanam** at IIT Gandhinagar.  
 The project focuses on **heat transfer, mass transport, and chemical kinetics modeling of biomass decomposition** using **COMSOL Multiphysics**, along with parameter estimation to validate against experimental data.
@@ -14,5 +13,3 @@ The project focuses on **heat transfer, mass transport, and chemical kinetics mo
 - Investigated key outputs: **temperature profiles, pressure & velocity fields, tar/gas concentration, and porosity evolution**.  
 
 ---
-
-## 📂 Repository Structure
